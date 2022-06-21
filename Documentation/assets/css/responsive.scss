@@ -1,0 +1,12 @@
+@media (max-width: 1199px) {
+	.header .hder-tt .title-info {
+		margin: 0 56px;
+	}
+	.main .list-menu .list-homepage {
+	    overflow-y: scroll;
+    	max-height: 100vh;
+		li a {
+		    padding: 17px 10px 15px;
+		}
+	}
+}
